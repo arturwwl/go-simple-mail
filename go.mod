@@ -1,4 +1,4 @@
-module github.com/xhit/go-simple-mail/v2
+module github.com/arturwwl/go-simple-mail/v2
 require (
 	github.com/toorop/go-dkim v0.0.0-20201103131630-e1cd1a0a5208
 )

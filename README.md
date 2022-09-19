@@ -2,8 +2,8 @@
 
 The best way to send emails in Go with SMTP Keep Alive and Timeout for Connect and Send.
 
-<a href="https://goreportcard.com/report/github.com/xhit/go-simple-mail/v2"><img src="https://goreportcard.com/badge/github.com/xhit/go-simple-mail" alt="Go Report Card"></a>
-<a href="https://pkg.go.dev/github.com/xhit/go-simple-mail/v2?tab=doc"><img src="https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white" alt="go.dev"></a>
+<a href="https://goreportcard.com/report/github.com/arturwwl/go-simple-mail/v2"><img src="https://goreportcard.com/badge/github.com/arturwwl/go-simple-mail" alt="Go Report Card"></a>
+<a href="https://pkg.go.dev/github.com/arturwwl/go-simple-mail/v2?tab=doc"><img src="https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white" alt="go.dev"></a>
 
 
 # IMPORTANT
@@ -79,14 +79,14 @@ Go Simple Mail supports:
 
 ## Documentation
 
-https://pkg.go.dev/github.com/xhit/go-simple-mail/v2?tab=doc
+https://pkg.go.dev/github.com/arturwwl/go-simple-mail/v2?tab=doc
 
 ## Download
 
 This package uses go modules.
 
 ```console
-$ go get github.com/xhit/go-simple-mail/v2
+$ go get github.com/arturwwl/go-simple-mail/v2
 ```
 
 # Usage
@@ -97,7 +97,7 @@ package main
 import (
 	"log"
 
-	"github.com/xhit/go-simple-mail/v2"
+	"github.com/arturwwl/go-simple-mail/v2"
 	"github.com/toorop/go-dkim"
 )
 
