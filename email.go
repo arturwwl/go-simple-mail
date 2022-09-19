@@ -48,6 +48,7 @@ type SMTPServer struct {
 	Port           int
 	KeepAlive      bool
 	TLSConfig      *tls.Config
+	GmailConfig    *GmailConfig
 }
 
 // SMTPClient represents a SMTP Client for send email
